@@ -37,7 +37,7 @@ As your client base expands, automated onboarding handles increased volume witho
 </summary>
  
 
-[![Trello Onboarding Automation](https://i.vimeocdn.com/video/2020151010-fe64ee991063de1e15005bcd8bbe0acad02e2cc3ea1007b34d4dd0a91e010586-d_295x166?&r=pad&region=us)](https://vimeo.com/1097326174?share=copy "Client Onboarding")
+[![Trello Onboarding Automation](https://i.vimeocdn.com/video/2031637988-a38edec7d3c8c07a33075c9ebb91b63164891db7d76eeca775de22538f42e789-d_142x80?&r=pad&region=us)](https://vimeo.com/1097326174?share=copy "Client Onboarding")
 
 <h1>Thank Your for looking!</h1>
 
