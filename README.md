@@ -10,17 +10,17 @@
 <h2>Here are three key business benefits of automating client project onboarding:
 
 
--Reduced Time-to-Value and Faster Project Kickoffs 
+<h2>Reduced Time-to-Value and Faster Project Kickoffs</h2> 
 
  Automation eliminates manual bottlenecks in gathering client information, setting up project infrastructure, and coordinating initial meetings.
 
 
--Consistent Quality and Reduced Human Error 
+<h2>Consistent Quality and Reduced Human Error</h2>
 
 Automated onboarding ensures every client receives the same thorough, professional experience through standardized processes.
 
 
--Scalable Growth Without Proportional Resource Increases 
+<h2>Scalable Growth Without Proportional Resource Increases</h2>
 
 As your client base expands, automated onboarding handles increased volume without requiring additional administrative staff.
 
